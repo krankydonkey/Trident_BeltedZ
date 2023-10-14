@@ -13,3 +13,5 @@ Based on the belted z mods by DoubleT and MathematicalPotato
 https://github.com/MathematicalPotato/Voron_Mods/tree/main/VT_Belted_Z
 
 https://github.com/3DPrintingMods/VoronTrident-BeltedZ
+
+![alt text](https://github.com/krankydonkey/Trident_BeltedZ/blob/master/images/cad.png)
