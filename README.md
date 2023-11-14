@@ -15,3 +15,24 @@ https://github.com/MathematicalPotato/Voron_Mods/tree/main/VT_Belted_Z
 https://github.com/3DPrintingMods/VoronTrident-BeltedZ
 
 ![alt text](https://github.com/krankydonkey/Trident_BeltedZ/blob/master/images/cad.png)
+
+BOM
+2.4 drives:
+m3 x 8mm BHCS - 5 (skirt)
+m3 x 8mm SCHS - 6
+m3 x 10mm BHCS - 1
+m3 x 12mm SHCS - 3
+m3 x 25mm SHCS - 4
+m3 x 40mm SHCS - 12
+m3 x 50mm SHCS - 8
+m5 x 55mm SHCS - 3
+m3 washer x 4
+m3 heatset insert - 38
+
+m5 x 16mm BHCS - 2
+m5 x 25mm BHCS - 2
+m5 x 30mm SHCS - 2
+m5 x 40mm SHCS - 4
+m5 nut - 2
+
++ hardware for whatever rear feet you choose to use
